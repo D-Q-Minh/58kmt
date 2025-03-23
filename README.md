@@ -28,4 +28,5 @@
 
 ## Bài làm:
 ### 1. Tạo cơ sở dữ liệu:
-
+![1 1](https://github.com/user-attachments/assets/7616aea6-f50a-407f-830b-db7d30e74cc6)
+###### chọn "New Database".

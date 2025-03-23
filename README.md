@@ -41,12 +41,16 @@
 ![6](https://github.com/user-attachments/assets/d9fbd1cf-d6ca-491c-ab34-d7f518e9e54f)
 ###### Làm tương tự với các bảng khác:
 ![7](https://github.com/user-attachments/assets/66a50ab3-c805-4ef3-bc07-4c6e40d10fff)
-### 3. Thiết lập Primary key
+### 3. Thiết lập Primary key, Foreign key, Check
+
 ###### Nhấp chuột phải vào bảng, chọn Degisn:
 ![8](https://github.com/user-attachments/assets/b1abbf50-9fcd-4128-b05b-c722a17df850)
 ###### Nhấp chuột phải vào mũi tên hiện hành trước column chỉ định làm khóa chính, chọn "Set Primary key":
 ![5](https://github.com/user-attachments/assets/fd762947-1dd7-4376-a060-e15413549130)
 
+
 ###### Nhấp chuột phải vào Database Diagrams, chọn New Database Diagram:
 ![fk 1](https://github.com/user-attachments/assets/9447e212-3713-4959-a754-83a22507ee13)
-######
+###### Nhấp chuột phải trong cửa sổ Diagram, chọn Add table:
+![fk 2](https://github.com/user-attachments/assets/89aae072-2f2d-4f56-8cbd-96bb1b427129)
+###### 

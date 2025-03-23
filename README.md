@@ -37,8 +37,11 @@
 ![3 1](https://github.com/user-attachments/assets/75aa8697-ed74-4b8c-a4b9-c005611f6a57)
 ###### Tạo các trường và chọn kiểu dữ liệu phù hợp:
 ![4](https://github.com/user-attachments/assets/922d29e1-e724-4b66-bef0-e4393624cec6)
-###### Nhập chuột phải vào mũi tên hiện hành trước column chỉ định làm khóa chính, chọn "Set Primary key":
+###### Nhấp chuột phải vào mũi tên hiện hành trước column chỉ định làm khóa chính, chọn "Set Primary key":
 ![5](https://github.com/user-attachments/assets/fd762947-1dd7-4376-a060-e15413549130)
+###### Làm tương tự với các bảng khác:
+![7](https://github.com/user-attachments/assets/66a50ab3-c805-4ef3-bc07-4c6e40d10fff)
 
-###### 
+###### Nhấp chuột phải vào Database Diagrams, chọn New Database Diagram:
 ![fk 1](https://github.com/user-attachments/assets/9447e212-3713-4959-a754-83a22507ee13)
+######

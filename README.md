@@ -28,8 +28,11 @@
 
 ## Bài làm:
 ### 1. Tạo cơ sở dữ liệu:
-###### chọn "New Database".
+###### chọn "New Database":
 ![1 1](https://github.com/user-attachments/assets/11250462-d619-43cb-af56-dba10f6e9a5d)
-###### Tạo database.
+###### Tạo database:
 ![2 1](https://github.com/user-attachments/assets/c8cf5445-92a1-4627-9435-8c93f3452952)
-
+###### Tạo bảng mới:
+![3 1](https://github.com/user-attachments/assets/75aa8697-ed74-4b8c-a4b9-c005611f6a57)
+###### Tạo các trường và chọn kiểu dữ liệu phù hợp:
+![4](https://github.com/user-attachments/assets/922d29e1-e724-4b66-bef0-e4393624cec6)

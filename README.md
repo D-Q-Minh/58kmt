@@ -32,6 +32,7 @@
 ![1 1](https://github.com/user-attachments/assets/11250462-d619-43cb-af56-dba10f6e9a5d)
 ###### Tạo database:
 ![2 1](https://github.com/user-attachments/assets/c8cf5445-92a1-4627-9435-8c93f3452952)
+### 2. Tạo bảng và đặt Primary key, Foreign key, check:
 ###### Tạo bảng mới:
 ![3 1](https://github.com/user-attachments/assets/75aa8697-ed74-4b8c-a4b9-c005611f6a57)
 ###### Tạo các trường và chọn kiểu dữ liệu phù hợp:
@@ -39,3 +40,5 @@
 ###### Nhập chuột phải vào mũi tên hiện hành trước column chỉ định làm khóa chính, chọn "Set Primary key":
 ![5](https://github.com/user-attachments/assets/fd762947-1dd7-4376-a060-e15413549130)
 
+###### 
+![fk 1](https://github.com/user-attachments/assets/9447e212-3713-4959-a754-83a22507ee13)

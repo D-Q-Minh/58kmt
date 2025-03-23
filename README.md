@@ -39,6 +39,8 @@
 ![4](https://github.com/user-attachments/assets/922d29e1-e724-4b66-bef0-e4393624cec6)
 ###### Nhấp chuột phải vào mũi tên hiện hành trước column chỉ định làm khóa chính, chọn "Set Primary key":
 ![5](https://github.com/user-attachments/assets/fd762947-1dd7-4376-a060-e15413549130)
+###### Đặt tên bảng:
+![6](https://github.com/user-attachments/assets/d9fbd1cf-d6ca-491c-ab34-d7f518e9e54f)
 ###### Làm tương tự với các bảng khác:
 ![7](https://github.com/user-attachments/assets/66a50ab3-c805-4ef3-bc07-4c6e40d10fff)
 

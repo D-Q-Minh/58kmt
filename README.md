@@ -68,23 +68,23 @@
 ![5](https://github.com/user-attachments/assets/fd762947-1dd7-4376-a060-e15413549130)
 ###### Làm tương tự với các bảng khác:
 ###### Bảng Lop:
-
+![bang lophp 2 key](https://github.com/user-attachments/assets/ea45535f-2912-41f6-8f89-c42d45baef60)
 ###### Bảng GVCN:
-
-###### Bảng LopSV
-
-###### Bảng GiaoVien
-
-###### Bảng BoMon
-
-###### Bảng Khoa
-
-###### Bảng MonHoc
-
-###### Bảng LopHP
-
+![bang gvcn 2 key](https://github.com/user-attachments/assets/50edd078-0876-47a2-9f83-d58a786e2da4)
+###### Bảng LopSV:
+![bang lopsv 2 key](https://github.com/user-attachments/assets/8a4e6b9f-e2b6-4b56-b281-5952124f21e1)
+###### Bảng GiaoVien:
+![bang giaovien 2 key](https://github.com/user-attachments/assets/f719b256-f00c-474f-9f61-9a8a0f4f3348)
+###### Bảng BoMon:
+![bang bomon 2 key](https://github.com/user-attachments/assets/266b858e-3020-44e8-b31c-e6c580543211)
+###### Bảng Khoa:
+![bang khoa 2 key](https://github.com/user-attachments/assets/cb9fd13b-74db-4634-9ec8-5b2b67187c78)
+###### Bảng MonHoc:
+![bang monhoc 2 key](https://github.com/user-attachments/assets/665197f9-a7f6-4754-a7fa-ac448f3cfceb)
+###### Bảng LopHP:
+![bang lophp 2 key](https://github.com/user-attachments/assets/5e0da9e5-7c80-4a09-915a-c587b69b51db)
 ###### Bảng DKMH:
-
+![bang dkmh 2 key](https://github.com/user-attachments/assets/866988d0-ce8b-4386-ad2b-c4510b5ca767)
 
 #### Foreign key (khóa ngoại)
 ###### Nhấp chuột phải vào Database Diagrams, chọn New Database Diagram:

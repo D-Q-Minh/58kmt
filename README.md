@@ -40,6 +40,25 @@
 ###### Lưu bảng và đặt tên:
 ![6](https://github.com/user-attachments/assets/d9fbd1cf-d6ca-491c-ab34-d7f518e9e54f)
 ###### Làm tương tự với các bảng khác:
+###### Bảng Lop:
+![bang lop 1](https://github.com/user-attachments/assets/499f715b-dd60-407a-8efd-080d1bc9a9f9)
+###### Bảng GVCN:
+![bang gvcn 1](https://github.com/user-attachments/assets/5a478d7c-af34-4252-ba7d-aa26b20e49bc)
+###### Bảng LopSV
+![bang lopsv 1](https://github.com/user-attachments/assets/2e4102d2-8b53-46ff-a82c-bd9d274a16a3)
+###### Bảng GiaoVien
+![bang giaovien 1](https://github.com/user-attachments/assets/46e060a4-b094-40c7-9cb8-36eba3dfdc9d)
+###### Bảng BoMon
+![bang bomon 1](https://github.com/user-attachments/assets/8a83be52-b161-43ea-9aef-909c8e7b84c2)
+###### Bảng Khoa
+![bang khoa 1](https://github.com/user-attachments/assets/e474ba8e-15dd-44a1-9c94-e0cc25dadd70)
+###### Bảng MonHoc
+![bang monhoc 1](https://github.com/user-attachments/assets/c36a1685-ab17-4a66-9b10-c5faa4f6c3fd)
+###### Bảng LopHP
+![bang lophp 1](https://github.com/user-attachments/assets/26b531b5-6a04-47fc-bedf-a4bf9c590f4a)
+###### Bảng DKMH
+![bang dkmh 1](https://github.com/user-attachments/assets/7c3e0196-3106-4d4b-92f7-0ab1d332b089)
+
 ![7](https://github.com/user-attachments/assets/66a50ab3-c805-4ef3-bc07-4c6e40d10fff)
 ### 3. Thiết lập Primary key, Foreign key, Check
 #### Primary key (khóa chính)

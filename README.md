@@ -66,6 +66,25 @@
 ![8](https://github.com/user-attachments/assets/b1abbf50-9fcd-4128-b05b-c722a17df850)
 ###### Nhấp chuột phải vào mũi tên hiện hành trước column chỉ định làm khóa chính, chọn "Set Primary key":
 ![5](https://github.com/user-attachments/assets/fd762947-1dd7-4376-a060-e15413549130)
+###### Làm tương tự với các bảng khác:
+###### Bảng Lop:
+
+###### Bảng GVCN:
+
+###### Bảng LopSV
+
+###### Bảng GiaoVien
+
+###### Bảng BoMon
+
+###### Bảng Khoa
+
+###### Bảng MonHoc
+
+###### Bảng LopHP
+
+###### Bảng DKMH:
+
 
 #### Foreign key (khóa ngoại)
 ###### Nhấp chuột phải vào Database Diagrams, chọn New Database Diagram:
@@ -107,3 +126,12 @@
 ![check 3 1](https://github.com/user-attachments/assets/f49789c4-6db8-4191-bd77-2e0c2946126b)
 ###### Nhập biểu thức điều kiện
 ![check 4 1 png](https://github.com/user-attachments/assets/cb29d03f-6329-4026-9ad5-e599bee9634c)
+###### Tương tự với các bảng khác:
+###### Bảng MonHoc:
+![check monhoc](https://github.com/user-attachments/assets/fb3c76f2-5de3-41b0-8325-41cdd66dbab0)
+###### Bảng LopHP:
+![check lophp](https://github.com/user-attachments/assets/3ba17073-599b-4d5b-9411-bb28d8fc7286)
+###### Bảng GVCN:
+![check gvcn](https://github.com/user-attachments/assets/843c4ebe-e6b5-4a83-8b33-7fc763715a1b)
+###### Bảng DKMH:
+![check dkmh](https://github.com/user-attachments/assets/cd66bbce-4f69-4557-b5ed-05adf01b85ce)

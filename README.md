@@ -68,3 +68,11 @@
 ![fk so do](https://github.com/user-attachments/assets/facd3e96-ada0-41fe-a916-39c275177fd1)
 
 #### Check
+###### Nhấp chuột phải, chọn Design
+![check 1](https://github.com/user-attachments/assets/ac87a6c2-0d85-452f-b872-9e1b323a7b90)
+###### Chuột phải ở khoảng trống, chọn Check Constraint
+![check 2](https://github.com/user-attachments/assets/077c0b09-3dfa-4aa4-9386-03f1a5f677c7)
+###### Thêm check
+![check 3 1](https://github.com/user-attachments/assets/f49789c4-6db8-4191-bd77-2e0c2946126b)
+###### Nhập biểu thức điều kiện
+![check 4 1 png](https://github.com/user-attachments/assets/cb29d03f-6329-4026-9ad5-e599bee9634c)

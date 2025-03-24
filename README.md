@@ -80,9 +80,21 @@
 ![fk 6 1](https://github.com/user-attachments/assets/6eb5d049-ddfc-4ff6-bde5-80fa6f0c4cdd)
 ###### Cửa số tables and columns hiện lên, điều chỉnh quan hệ tham chiếu:
 ![fk 7 1](https://github.com/user-attachments/assets/5a27e431-4b4e-42f0-ac67-cbc8bc8672ad)
-###### Thiết lập xong:
-![fk 8](https://github.com/user-attachments/assets/521554db-f612-4790-ae8f-a99f66c37d63)
-###### Làm tương tự với các bản khác
+###### Tương tự với các bản khác
+###### Bảng BoMon:
+![fk bomon 1](https://github.com/user-attachments/assets/bcf20818-9dcb-4790-b8e9-4ef0d34ef4db)
+###### Bảng GVCN:
+![fk gvcn 1](https://github.com/user-attachments/assets/d63d9f1b-e78b-466f-93ce-099449e722e5)
+![fk gvcn 2](https://github.com/user-attachments/assets/9d22badf-1477-44f6-9158-624466a78a95)
+###### Bảng GiaoVien:
+![fk giaovien 1](https://github.com/user-attachments/assets/d7996711-15cd-429d-b60d-1d7c3ccfefb9)
+###### Bảng LopHP:
+![fk lophp 1](https://github.com/user-attachments/assets/90e61e4b-7ed4-4c85-afc2-1c0e03251e3c)
+![fk lophp 2](https://github.com/user-attachments/assets/4166c299-7d6e-4402-86ec-6d01c89732db)
+###### Bảng DKMH:
+![fk dkmh 1](https://github.com/user-attachments/assets/8c52755b-2253-427e-96ac-5ca8a849b6d1)
+![fk dkmh 2](https://github.com/user-attachments/assets/d25179fa-2546-4f7f-9e30-2de39da242cc)
+
 ###### Kết quả:
 ![fk so do](https://github.com/user-attachments/assets/facd3e96-ada0-41fe-a916-39c275177fd1)
 
